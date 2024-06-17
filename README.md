@@ -3,12 +3,9 @@
 # Reset Path
 Helping people fighting addictions
 
-## Contribution
-> Any contribution is welcome !
->
-> Don't forget to check on [Bount.ing](https://bount.ing) for potential rewards
+## How to Contribute
+We warmly welcome contributions from everyone! If you're interested in contributing, please also explore potential rewards on Bount.ing.
 
-## Sponsors
-
-- You can sponsor the entire project through github sponsors
-- You can also sponsor specific issue that concerns you more through [Bount.ing](https://bount.ing)
+## Sponsorship Opportunities
+Support our entire project by becoming a sponsor on GitHub.
+Alternatively, sponsor specific issues that are of particular interest to you via Bount.ing.
